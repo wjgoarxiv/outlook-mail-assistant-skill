@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outlook Mail Assistant"
+  short_description: "Local Outlook mail intelligence workflows"
+  default_prompt: "Use $outlook-mail-assistant to ingest Outlook mail, extract tasks and decisions, and generate local reports."
