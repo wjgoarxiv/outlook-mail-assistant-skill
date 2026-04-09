@@ -108,7 +108,3 @@ python scripts/convert_md_to_docx.py README.md output.docx
 - 생성된 JSONL, SQLite, CSV, XLSX, DOCX, audit 출력은 민감 메일 산출물로 취급할 것
 - 메일함/캘린더 변경 전에는 dry-run 경로를 우선 사용할 것
 - 선택적 파서를 활성화하기 전 `references/`의 의존성/라이선스 제약을 검토할 것
-
-## Cover Asset
-
-`cover.png`는 `generate_cover.py`로 생성되므로 공개 hero asset을 재현 가능하게 유지할 수 있습니다.
